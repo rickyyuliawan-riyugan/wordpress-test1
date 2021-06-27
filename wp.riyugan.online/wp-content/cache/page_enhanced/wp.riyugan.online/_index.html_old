@@ -1,0 +1,531 @@
+<!doctype html>
+<!--[if lt IE 7 ]>
+<html class="ie ie6 ie-lt10 ie-lt9 ie-lt8 ie-lt7 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>
+<html class="ie ie7 ie-lt10 ie-lt9 ie-lt8 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>
+<html class="ie ie8 ie-lt10 ie-lt9 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>
+<html class="ie ie9 ie-lt10 no-js" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en-US"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>My Blog &#8211; My WordPress Blog</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="My Blog &raquo; Feed" href="https://wp.riyugan.online/feed/" />
+<link rel="alternate" type="application/rss+xml" title="My Blog &raquo; Comments Feed" href="https://wp.riyugan.online/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/wp.riyugan.online\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://wp.riyugan.online/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css'  href='http://wp.riyugan.online/wp-includes/css/dist/components/style.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css'  href='http://wp.riyugan.online/wp-includes/css/dist/block-editor/style.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-nux-css'  href='http://wp.riyugan.online/wp-includes/css/dist/nux/style.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css'  href='http://wp.riyugan.online/wp-includes/css/dist/editor/style.min.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='kyma_blocks-cgb-style-css-css'  href='http://wp.riyugan.online/wp-content/themes/kyma/inc/plugins/kyma-blocks/dist/blocks.style.build.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='kyma-plugins-css'  href='http://wp.riyugan.online/wp-content/themes/kyma/css/plugins.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='Kyma-css'  href='http://wp.riyugan.online/wp-content/themes/kyma/style.css?ver=5.7.2' type='text/css' media='all' />
+<style id='Kyma-inline-css' type='text/css'>
+@media (min-width: 992px) { .wl-gallery{ width:33.33% !important;} }
+</style>
+<link rel='stylesheet' id='responsive-css'  href='http://wp.riyugan.online/wp-content/themes/kyma/css/responsive.css?ver=5.7.2' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='Oswald-css'  href='//fonts.googleapis.com/css?family=Oswald%3A400%2C700%2C300&#038;ver=5.7.2' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='lato-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&#038;ver=5.7.2' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;display=fallback&#038;ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki-styles-kyma_theme-css'  href='http://wp.riyugan.online/wp-content/themes/kyma/inc/kirki/assets/css/kirki-styles.css?ver=3.0.35.3' type='text/css' media='all' />
+<style id='kirki-styles-kyma_theme-inline-css' type='text/css'>
+.light_header .topbar,.light_header .top-socials > a > span.soc_name,.light_header .top-socials > a > span.soc_icon_bg,.light_header .top-socials span.soc_name:after, .light_header .top-socials span.soc_name:before{background-color:#1ccdca;}.top_details .title, .top_details .title a, .top_details > span > a, .top_details > span, .top_details > div, .top_details > div > a, .top-socials > a{color:#fff;}.menu_button_mode:not(.header_on_side) #navy > li.current_page_item > a, .menu_button_mode:not(.header_on_side) #navy > li.current_page_item:hover > a{background-color:#1ccdca;}#navy > li:not(.current_page_item):hover > a:not(.nav_trigger),#navy ul li a:hover{color:#1ccdca!important;}#logo{margin-top:10px;}#logo .site-title a{font-family:lato;font-style:bold;}#navy > li > a > span{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-style:bold;}body, h1, h2, h3, h4, h5, h6, p, em, blockquote, .main_title h2{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-style:bold;}.main_title h2{font-family:"Open Sans", Helvetica, Arial, sans-serif;font-style:bold;}#footer{background-color:#191E21;}.hm_go_top{background-color:#1ccdca;}.owl_text_a > span{background-color:#1ccdca;}.owl_text_c > span{background-color:rgba(0, 0, 0, 0.8);}.welcome_banner.full_colored, .welcome_banner.boxed_colored{background:#00a69b !important;}.welcome_banner i.in_left,.welcome_banner i.in_right{color:#00a69b;}.welcome_banner .btn_a:not(.color1):hover{color:#00a69b;}
+</style>
+<link rel="https://api.w.org/" href="https://wp.riyugan.online/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wp.riyugan.online/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wp.riyugan.online/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.2" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>	<style type="text/css" id="header-style">
+			.site-title a,
+		.site-description {
+			color: #000000;
+		}
+		</style>
+	<link rel="amphtml" href="https://wp.riyugan.online/?amp=1"><link rel="preload" href="http://wp.riyugan.online/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0" as="script"><link rel="preload" href="http://wp.riyugan.online/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0" as="script"><link rel="preload" href="http://wp.riyugan.online/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0" as="script"><link rel="preload" href="http://wp.riyugan.online/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4" as="script"><link rel="preload" href="http://wp.riyugan.online/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12" as="script"><link rel="preload" href="http://wp.riyugan.online/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2" as="script"><link rel="preload" href="http://wp.riyugan.online/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4" as="script"><link rel="preload" href="http://wp.riyugan.online/wp-includes/js/wp-emoji-release.min.js?ver=5.7.2" as="script"><link rel="preload" href="http://wp.riyugan.online/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2" as="style"><link rel="preload" href="http://wp.riyugan.online/wp-includes/css/dist/components/style.min.css?ver=5.7.2" as="style"><link rel="preload" href="http://wp.riyugan.online/wp-includes/css/dist/block-editor/style.min.css?ver=5.7.2" as="style"><link rel="preload" href="http://wp.riyugan.online/wp-includes/css/dist/nux/style.min.css?ver=5.7.2" as="style"><link rel="preload" href="http://wp.riyugan.online/wp-includes/css/dist/editor/style.min.css?ver=5.7.2" as="style"><link rel="preload" href="http://wp.riyugan.online/wp-content/themes/kyma/inc/plugins/kyma-blocks/dist/blocks.style.build.css?ver=5.7.2" as="style"><link rel="preload" href="http://wp.riyugan.online/wp-content/themes/kyma/css/plugins.css?ver=5.7.2" as="style"><link rel="preload" href="http://wp.riyugan.online/wp-content/themes/kyma/style.css?ver=5.7.2" as="style"><link rel="preload" href="http://wp.riyugan.online/wp-content/themes/kyma/css/responsive.css?ver=5.7.2" as="style"><link rel="preload" href="//fonts.googleapis.com/css?family=Oswald%3A400%2C700%2C300&#038;ver=5.7.2" as="style"><link rel="preload" href="//fonts.googleapis.com/css?family=Lato%3A300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&#038;ver=5.7.2" as="style"><link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;display=fallback&#038;ver=5.7.2" as="style"><link rel="preload" href="http://wp.riyugan.online/wp-content/themes/kyma/inc/kirki/assets/css/kirki-styles.css?ver=3.0.35.3" as="style"></head>
+<body class="home blog wp-embed-responsive menu_button_mode preloader3 light_header">
+<span id="stickymenu"
+      style="display:none;">1</span>
+
+<div id="preloader">
+    <div class="spinner">
+        <div class="sk-dot1"></div>
+        <div class="sk-dot2"></div>
+        <div class="rect3"></div>
+        <div class="rect4"></div>
+        <div class="rect5"></div>
+    </div>
+</div>
+<div id="main_wrapper">
+    <header id="site_header">
+        <div class="topbar ">
+            <!-- class ( topbar_colored  ) -->
+            <div class="content clearfix">
+				                <div class="top_details clearfix f_left">                        <span><i class="fa fa-phone"></i><span
+                            class="title">Call Us :</span><a href="tel:+0744-9999">+0744-9999</a>
+                        </span>                        <span><i class="far fa-envelope"></i><span
+                                class="title">Email :</span>
+							<a href="mailto:example@gmail.com">example@gmail.com</a></span>
+                                    </div>
+                                    <div class="top-socials box_socials f_right">
+                                        <a href="#" target="_blank">
+                        <span class="soc_name">Facebook</span>
+                        <span class="soc_icon_bg"></span>
+                        <i class="fab fa-facebook-f"></i>
+                        </a>                    <a href="#" target="_blank">
+                        <span class="soc_name">Twitter</span>
+                        <span class="soc_icon_bg"></span>
+                        <i class="fab fa-twitter"></i>
+                        </a>                    <a href="#" target="_blank">
+                        <span class="soc_name">Instagram</span>
+                        <span class="soc_icon_bg"></span>
+                        <i class="fab fa-instagram"></i>
+                        </a>                    <a href="#" target="_blank">
+                        <span class="soc_name">Linkedin</span>
+                        <span class="soc_icon_bg"></span>
+                        <i class="fab fa-linkedin"></i>
+                        </a>                    <a href="skype:#">
+                        <span class="soc_name">Skype</span>
+                        <span class="soc_icon_bg"></span>
+                        <i class="fab fa-skype"></i>
+                        </a>                    <a href="#" target="_blank">
+                        <span class="soc_name">Vimeo</span>
+                        <span class="soc_icon_bg"></span>
+                        <i class="fab fa-vimeo-square"></i>
+                        </a>                    <a href="#" target="_blank">
+                        <span class="soc_name">YouTube</span>
+                        <span class="soc_icon_bg"></span>
+                        <i class="fab fa-youtube"></i>
+                        </a>                    </div>            </div>
+            <!-- End content -->
+			<span class="top_expande not_expanded">
+				<i class="no_exp fa fa-angle-double-down"></i>
+				<i class="exp fa fa-angle-double-up"></i>
+			</span>
+        </div>
+        <!-- End topbar -->
+        <div id="navigation_bar"
+             style="">
+            <div class="content">
+                <div id="logo" >
+                    					<h3 class="site-title"><a href="https://wp.riyugan.online/"  title="My Blog" rel="home">My Blog</a></h3>
+                    <p class="site-description">My WordPress Blog</p>					</a>
+                </div>
+                <nav id="main_nav">
+                    <div id="nav_menu">
+                        <div class=""><ul id="navy" class="clearfix horizontal_menu"><li class="current_page_item"><a href="https://wp.riyugan.online/" title="Home"><span>Home</span></a></li><li class="normal_menu page_item page-item-2"><a href="https://wp.riyugan.online/sample-page/"><span>Sample Page</span></a></li></ul></div>
+                                                <div class="mob-menu"></div>
+                    </div>
+                </nav>
+                <!-- End Nav -->
+                <div class="clear"></div>
+            </div>
+        </div>
+    </header>
+    <!-- End Main Header --><div id="kyma_owl_slider" class="owl-carousel">
+			<div class="item">
+			<img src="http://wp.riyugan.online/wp-content/themes/kyma/images/slide1.jpg" alt="Slide Title">
+			<div class="owl_slider_con">
+				<span class="owl_text_a">
+					<span>
+						<span>Kyma Theme IS The Best</span>
+					</span>
+				</span>
+				<span class="owl_text_c"><span>Lorem Ipsum is simply dummy text of the printing and industry...</span></span>
+				<span class="owl_text_d">
+					<a href="#" target="_self" class="btn_a">
+						Read More					</a>
+				</span>
+			</div>
+		</div>
+			<div class="item">
+			<img src="http://wp.riyugan.online/wp-content/themes/kyma/images/slide1.jpg" alt="Slide Title">
+			<div class="owl_slider_con">
+				<span class="owl_text_a">
+					<span>
+						<span>Kyma Theme IS The Best</span>
+					</span>
+				</span>
+				<span class="owl_text_c"><span>Lorem Ipsum is simply dummy text of the printing and industry...</span></span>
+				<span class="owl_text_d">
+					<a href="#" target="_self" class="btn_a">
+						Read More					</a>
+				</span>
+			</div>
+		</div>
+			<div class="item">
+			<img src="http://wp.riyugan.online/wp-content/themes/kyma/images/slide1.jpg" alt="Slide Title">
+			<div class="owl_slider_con">
+				<span class="owl_text_a">
+					<span>
+						<span>Kyma Theme IS The Best</span>
+					</span>
+				</span>
+				<span class="owl_text_c"><span>Lorem Ipsum is simply dummy text of the printing and industry...</span></span>
+				<span class="owl_text_d">
+					<a href="#" target="_self" class="btn_a">
+						Read More					</a>
+				</span>
+			</div>
+		</div>
+	</div>
+<section class="content_section bg_gray">
+    <div class="container icons_spacer">
+        <div class="main_title centered upper">            <h2 id="service_heading"><span class="line"><span
+                        class="dot"></span></span>Our Services</h2>
+        </div>
+        <div class="icon_boxes_con style1 clearfix">            <div class="service col-md-3">
+				<div class="service_box">
+					                    <span class="icon"><i id="service-icon-1" class="fa fa-mobile "></i></span>
+					                    <div class="service_box_con centered">
+                                                    <h3 id="service-title-1">Responsive</h3>                            <span id="service-desc-1"
+                                  class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit ipsum lorem sit amet.</span>                        <a id="service-link-1"
+                           href="#"
+                           class="ser-box-link"><span></span>Read More</a>                    </div>
+                </div>
+                </div>            <div class="service col-md-3">
+				<div class="service_box">
+					                    <span class="icon"><i id="service-icon-2" class="fa fa-eye color1"></i></span>
+					                    <div class="service_box_con centered">
+                                                    <h3 id="service-title-2">Retina Ready</h3>                            <span id="service-desc-2"
+                                  class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit ipsum lorem sit amet.</span>                        <a id="service-link-2"
+                           href="#"
+                           class="ser-box-link"><span></span>Read More</a>                    </div>
+                </div>
+                </div>            <div class="service col-md-3">
+				<div class="service_box">
+					                    <span class="icon"><i id="service-icon-3" class="fa fa-clone color2"></i></span>
+					                    <div class="service_box_con centered">
+                                                    <h3 id="service-title-3">Multi Layout</h3>                            <span id="service-desc-3"
+                                  class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit ipsum lorem sit amet</span>                        <a id="service-link-3"
+                           href="#"
+                           class="ser-box-link"><span></span>Read More</a>                    </div>
+                </div>
+                </div>            <div class="service col-md-3">
+				<div class="service_box">
+					                    <span class="icon"><i id="service-icon-4" class="fa fa-wrench color3"></i></span>
+					                    <div class="service_box_con centered">
+                                                    <h3 id="service-title-4">Easy To Customize</h3>                            <span id="service-desc-4"
+                                  class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit ipsum lorem sit amet</span>                        <a id="service-link-4"
+                           href="#"
+                           class="ser-box-link"><span></span>Read More</a>                    </div>
+                </div>
+                </div>        </div>
+    </div>
+</section><section id="portfolio" class="content_section">
+    <div class="row_spacer clearfix">
+        <div class="content">
+            <div class="main_title centered upper">                    <h2 id="port_head"><span class="line"><i
+                            class="far fa-folder-open"></i></span>Our Portfolio                    </h2>            </div>
+        </div>
+        <!-- Filter Content -->
+        <div class="hm_filter_wrapper three_blocks project_text_nav has_sapce_portos nav_with_nums upper_title upper_title boxed_portos">
+            <div class="hm_filter_wrapper_con">                    <div class="filter_item_block">
+                        <div class="porto_block">
+                                                        <div class="porto_type">
+                                <a data-rel="magnific-popup" href="http://wp.riyugan.online/wp-content/themes/kyma/images/port-1.jpg">
+                                    <img src="http://wp.riyugan.online/wp-content/themes/kyma/images/port-1.jpg"  alt="beautiful">
+                                </a>
+                                <div class="porto_nav">
+                                    <a href="#" class="expand_img">View Larger</a>
+                                    <a href="#" class="detail_link">More Details</a>
+                                </div>
+                            </div>                            <div class="porto_desc">
+                                <h6 id="portfolio-title-1" class="name">beautiful</h6>
+                            </div>
+                        </div>
+                    </div>
+                                <div class="filter_item_block">
+                        <div class="porto_block">
+                                                        <div class="porto_type">
+                                <a data-rel="magnific-popup" href="http://wp.riyugan.online/wp-content/themes/kyma/images/port-2.jpg">
+                                    <img src="http://wp.riyugan.online/wp-content/themes/kyma/images/port-2.jpg"  alt="Responsive">
+                                </a>
+                                <div class="porto_nav">
+                                    <a href="#" class="expand_img">View Larger</a>
+                                    <a href="#" class="detail_link">More Details</a>
+                                </div>
+                            </div>                            <div class="porto_desc">
+                                <h6 id="portfolio-title-2" class="name">Responsive</h6>
+                            </div>
+                        </div>
+                    </div>
+                                <div class="filter_item_block">
+                        <div class="porto_block">
+                                                        <div class="porto_type">
+                                <a data-rel="magnific-popup" href="http://wp.riyugan.online/wp-content/themes/kyma/images/port-3.jpg">
+                                    <img src="http://wp.riyugan.online/wp-content/themes/kyma/images/port-3.jpg"  alt="Creative">
+                                </a>
+                                <div class="porto_nav">
+                                    <a href="#" class="expand_img">View Larger</a>
+                                    <a href="#" class="detail_link">More Details</a>
+                                </div>
+                            </div>                            <div class="porto_desc">
+                                <h6 id="portfolio-title-3" class="name">Creative</h6>
+                            </div>
+                        </div>
+                    </div>
+                        </div>
+        </div>        <!-- End Filter Content -->
+    </div>
+</section><section class="content_section bg_gray">
+    <div class="content row_spacer no_padding">
+        <div class="main_title centered upper">                <h2 id='blog-heading'><span class="line"><i
+                        class="fa fa-edit"></i></span>Latest Posts                </h2>        </div>
+        <div class="rows_container clearfix">
+            <div class="hm_blog_grid">
+                <!-- Filter Content -->
+                <div class="hm_filter_wrapper masonry_grid_posts three_blocks">
+                    <ul class="hm_filter_wrapper_con masonry ajax_posts">                            <li class="filter_item_block animated grid-item" data-animation-delay="300" data-animation="rotateInUpLeft">
+                                <div class="blog_grid_block">
+								                                    <div class="blog_grid_con">
+										                                        <h6 class="title"><a href="https://wp.riyugan.online/2021/06/23/hello-world/">Hello world!</a></h6>
+									<span class="meta">
+										<span
+                                            class="meta_part">June 23, 2021</span>
+										<span class="meta_slash">/</span>
+										<span
+                                            class="meta_part"><a href="https://wp.riyugan.online/2021/06/23/hello-world/#comments">1 Comment</a> </span>
+										<span class="meta_slash">/</span>
+										<span class="meta_part"><a href="https://wp.riyugan.online/category/uncategorized/" rel="category tag">Uncategorized</a></span>
+									</span>
+                                        <!-- wp:paragraph -->
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<!-- /wp:paragraph -->                                    </div>
+                                </div>
+                                </li>                    </ul>
+                </div>
+                <!-- End Filter Content -->
+				                <div class="centered post-btn1 load-button" id="load-button">
+                    <a class="btn_c append-button" data-loading-text="<i class='fas fa-spinner fa-spin'></i> Loading Text">
+                        <span class="btn_c_ic_a"><i class="fa fa-sync-alt"></i></span>
+                        <span class="btn_c_t">Load More Text</span>
+                        <span class="btn_c_ic_b"><i class="fa fa-sync-alt"></i></span>
+                    </a>
+                </div>
+				            </div>
+            <!-- End blog grid -->
+        </div>
+    </div>
+</section><section id='callout' class="content_section white_section bg_color3">
+    <div class="welcome_banner full_colored">
+        <div class="content box_sec clearfix">
+                            <h3 id='callout-title'>Best Wordpress Resposnive Theme Ever!</h3>
+                        <a id="call_out_link" href="http://www.webhuntinfotech.com" target="_self"
+               class="btn_a f_right">
+                <span><i class="in_left fa fa-shopping-cart"></i><span
+                        id='callout-btn-text'>Purchase Now</span><i
+                        class="in_right fa fa-shopping-cart"></i></span>
+            </a>                <span
+                    class="intro_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour of this randomised words which don&#039;t look even slightly believable If you are going to use a passage of Lorem Ipsum.</span>        </div>
+    </div>
+</section><!-- footer -->
+<footer id="footer">
+    <div class="container row_spacer clearfix">
+        <div class="rows_container clearfix">
+            <div class="footer-widget-col col-md-3">
+                                <div class="footer_row"><h6 class="footer_title">Archives</h6>
+			<ul>
+					<li><a href='https://wp.riyugan.online/2021/06/'>June 2021</a></li>
+			</ul>
+
+			</div></div><div class="footer-widget-col col-md-3">
+                                <div class="footer_row"><h6 class="footer_title">Categories</h6>
+			<ul>
+					<li class="cat-item cat-item-1"><a href="https://wp.riyugan.online/category/uncategorized/">Uncategorized</a>
+</li>
+			</ul>
+
+			</div></div><div class="footer-widget-col col-md-3">
+                                <div class="footer_row"><h6 class="footer_title">Meta</h6>
+		<ul>
+						<li><a href="https://wp.riyugan.online/wp-login.php">Log in</a></li>
+			<li><a href="https://wp.riyugan.online/feed/">Entries feed</a></li>
+			<li><a href="https://wp.riyugan.online/comments/feed/">Comments feed</a></li>
+
+			<li><a href="https://wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</div></div>        </div>
+    </div>
+    <div class="footer_copyright">
+        <div class="container clearfix">
+            <div class="col-md-6">
+                <span
+                    class="footer_copy_text">Kyma Theme Developed By                    <a href="http://www.webhuntinfotech.com/">Webhunt Infotech</a></span>
+            </div>
+            <div class="col-md-6 clearfix">
+                <div class="clearfix footer_menu"><ul>
+<li class="current_page_item"><a href="https://wp.riyugan.online/"><span>Home</span></a></li><li class="page_item page-item-2"><a href="https://wp.riyugan.online/sample-page/"><span>Sample Page</span></a></li>
+</ul></div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- End footer -->
+<a href="#0" class="hm_go_top"></a>
+</div>
+<!-- End wrapper -->
+		<script>
+		(function( w ){
+	"use strict";
+	// rel=preload support test
+	if( !w.loadCSS ){
+		w.loadCSS = function(){};
+	}
+	// define on the loadCSS obj
+	var rp = loadCSS.relpreload = {};
+	// rel=preload feature support test
+	// runs once and returns a function for compat purposes
+	rp.support = (function(){
+		var ret;
+		try {
+			ret = w.document.createElement( "link" ).relList.supports( "preload" );
+		} catch (e) {
+			ret = false;
+		}
+		return function(){
+			return ret;
+		};
+	})();
+
+	// if preload isn't supported, get an asynchronous load by using a non-matching media attribute
+	// then change that media back to its intended value on load
+	rp.bindMediaToggle = function( link ){
+		// remember existing media attr for ultimate state, or default to 'all'
+		var finalMedia = link.media || "all";
+
+		function enableStylesheet(){
+			// unbind listeners
+			if( link.addEventListener ){
+				link.removeEventListener( "load", enableStylesheet );
+			} else if( link.attachEvent ){
+				link.detachEvent( "onload", enableStylesheet );
+			}
+			link.setAttribute( "onload", null ); 
+			link.media = finalMedia;
+		}
+
+		// bind load handlers to enable media
+		if( link.addEventListener ){
+			link.addEventListener( "load", enableStylesheet );
+		} else if( link.attachEvent ){
+			link.attachEvent( "onload", enableStylesheet );
+		}
+
+		// Set rel and non-applicable media type to start an async request
+		// note: timeout allows this to happen async to let rendering continue in IE
+		setTimeout(function(){
+			link.rel = "stylesheet";
+			link.media = "only x";
+		});
+		// also enable media after 3 seconds,
+		// which will catch very old browsers (android 2.x, old firefox) that don't support onload on link
+		setTimeout( enableStylesheet, 3000 );
+	};
+
+	// loop through link elements in DOM
+	rp.poly = function(){
+		// double check this to prevent external calls from running
+		if( rp.support() ){
+			return;
+		}
+		var links = w.document.getElementsByTagName( "link" );
+		for( var i = 0; i < links.length; i++ ){
+			var link = links[ i ];
+			// qualify links to those with rel=preload and as=style attrs
+			if( link.rel === "preload" && link.getAttribute( "as" ) === "style" && !link.getAttribute( "data-loadcss" ) ){
+				// prevent rerunning on link
+				link.setAttribute( "data-loadcss", true );
+				// bind listeners to toggle media back
+				rp.bindMediaToggle( link );
+			}
+		}
+	};
+
+	// if unsupported, run the polyfill
+	if( !rp.support() ){
+		// run once at least
+		rp.poly();
+
+		// rerun poly on an interval until onload
+		var run = w.setInterval( rp.poly, 500 );
+		if( w.addEventListener ){
+			w.addEventListener( "load", function(){
+				rp.poly();
+				w.clearInterval( run );
+			} );
+		} else if( w.attachEvent ){
+			w.attachEvent( "onload", function(){
+				rp.poly();
+				w.clearInterval( run );
+			} );
+		}
+	}
+
+
+	// commonjs
+	if( typeof exports !== "undefined" ){
+		exports.loadCSS = loadCSS;
+	}
+	else {
+		w.loadCSS = loadCSS;
+	}
+}( typeof global !== "undefined" ? global : this ) );
+		</script>
+		<script type='text/javascript' src='http://wp.riyugan.online/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
+<script type='text/javascript' src='http://wp.riyugan.online/wp-content/themes/kyma/inc/kirki/modules/webfont-loader/vendor-typekit/webfontloader.js?ver=3.0.28' id='webfont-loader-js'></script>
+<script type='text/javascript' id='webfont-loader-js-after'>
+WebFont.load({google:{families:['Open Sans:400:cyrillic,cyrillic-ext,devanagari,greek,greek-ext,khmer,latin,latin-ext,vietnamese,hebrew,arabic,bengali,gujarati,tamil,telugu,thai']}});
+</script>
+<script type='text/javascript' src='http://wp.riyugan.online/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://wp.riyugan.online/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='http://wp.riyugan.online/wp-content/themes/kyma/js/plugins.js?ver=5.7.2' id='plugins-js'></script>
+<script type='text/javascript' id='functions-js-extra'>
+/* <![CDATA[ */
+var slider = {"effect":"fadeUp"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://wp.riyugan.online/wp-content/themes/kyma/js/functions.js?ver=5.7.2' id='functions-js'></script>
+<script type='text/javascript' src='http://wp.riyugan.online/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='http://wp.riyugan.online/wp-includes/js/masonry.min.js?ver=4.2.2' id='masonry-js'></script>
+<script type='text/javascript' id='load-posts-js-extra'>
+/* <![CDATA[ */
+var load_more_posts_variable = {"ajaxurl":"https:\/\/wp.riyugan.online\/wp-admin\/admin-ajax.php","ppp":"3","noposts":"No more post Text"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://wp.riyugan.online/wp-content/themes/kyma/js/load-posts.js?ver=16082019' id='load-posts-js'></script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 0/81 objects using memcached
+Page Caching using disk: enhanced 
+Database Caching using redis
+
+Served from: wp.riyugan.online @ 2021-06-23 16:47:17 by W3 Total Cache
+-->

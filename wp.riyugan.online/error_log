@@ -1,0 +1,1 @@
+[25-Jun-2021 00:21:51 UTC] PHP Warning:  Use of undefined constant the_title - assumed 'the_title' (this will throw an Error in a future version of PHP) in /home/riyugano/wp.riyugan.online/wp-content/themes/simple-press/page-quorse.php on line 20

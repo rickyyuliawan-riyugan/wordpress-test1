@@ -1,0 +1,419 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="My WordPress Blog">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+
+    <title>Supplier Quality Management (Online Training) &#8211; Quorse</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Quorse &raquo; Feed" href="https://wp.riyugan.online/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Quorse &raquo; Comments Feed" href="https://wp.riyugan.online/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wp.riyugan.online\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://wp.riyugan.online/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' media='all' />
+<link rel='stylesheet' id='fontello-css'  href='https://wp.riyugan.online/wp-content/themes/simple-press/css/fontello.css?ver=-b-modified-1624515839' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='simple-press-googlefonts-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CInika%3A200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CCormorant+Garamond%3A200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7C&#038;ver=5.7.2' media='all' />
+<link rel='stylesheet' id='simple-press-style-css'  href='https://wp.riyugan.online/wp-content/themes/simple-press/style.css?ver=1.0.6-b-modified-1624580375' media='all' />
+<style id='simple-press-style-inline-css'>
+
+
+                :root {
+                        --primary-color: #755fbf;
+                        --secondary-color: #3a458c;
+                        --text-color: #333333;
+                        --light-color: #ffffff;
+                        --dark-color: #374359;
+                        --grey-color: #a0b2bc;
+                }
+                
+                /* font family */
+                body{ font: 400 16px Poppins; line-height: 1.7;}
+
+                h1,h2,h3,h4,h5,h6{ font-family: Inika }                
+
+
+                /* site title size */
+                .site-title a{color: #755fbf;}
+                .site-title{font-size: 4rem; font-family: Cormorant Garamond; }
+
+                header .custom-logo{ width: 12rem; }
+
+                /* container width */
+                .container{max-width: 1400px; }
+
+                
+        
+</style>
+<script src='https://wp.riyugan.online/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script src='https://wp.riyugan.online/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script id='simple_press_loadmore-js-extra'>
+var simple_press_loadmore_params = {"ajaxurl":"https:\/\/wp.riyugan.online\/wp-admin\/admin-ajax.php","current_page":"1","max_page":"1","cat":"0"};
+</script>
+<script src='https://wp.riyugan.online/wp-content/themes/simple-press/js/loadmore.js?ver=-b-modified-1624515839' id='simple_press_loadmore-js'></script>
+<link rel="https://api.w.org/" href="https://wp.riyugan.online/wp-json/" /><link rel="alternate" type="application/json" href="https://wp.riyugan.online/wp-json/wp/v2/pages/8" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wp.riyugan.online/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://wp.riyugan.online/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.2" />
+<link rel="canonical" href="https://wp.riyugan.online/supplier-quality-management-online-training/" />
+<link rel='shortlink' href='https://wp.riyugan.online/?p=8' />
+<link rel="alternate" type="application/json+oembed" href="https://wp.riyugan.online/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwp.riyugan.online%2Fsupplier-quality-management-online-training%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://wp.riyugan.online/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwp.riyugan.online%2Fsupplier-quality-management-online-training%2F&#038;format=xml" />
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="amphtml" href="https://wp.riyugan.online/supplier-quality-management-online-training/?amp=1"><link rel="preload" href="https://wp.riyugan.online/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0" as="script"><link rel="preload" href="https://wp.riyugan.online/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0" as="script"><link rel="preload" href="https://wp.riyugan.online/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0" as="script"><link rel="preload" href="https://wp.riyugan.online/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4" as="script"><link rel="preload" href="https://wp.riyugan.online/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12" as="script"><link rel="preload" href="https://wp.riyugan.online/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2" as="script"><link rel="preload" href="https://wp.riyugan.online/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4" as="script"><link rel="preload" href="https://wp.riyugan.online/wp-includes/js/wp-emoji-release.min.js?ver=5.7.2" as="script"><link rel="preload" href="https://wp.riyugan.online/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2" as="style"><link rel="preload" href="https://wp.riyugan.online/wp-content/themes/simple-press/css/fontello.css?ver=-b-modified-1624515839" as="style"><link rel="preload" href="https://fonts.googleapis.com/css?family=Poppins%3A200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CInika%3A200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CCormorant+Garamond%3A200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7C&#038;ver=5.7.2" as="style"><link rel="preload" href="https://wp.riyugan.online/wp-content/themes/simple-press/style.css?ver=1.0.6-b-modified-1624580375" as="style"><link rel="preload" href="https://wp.riyugan.online/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" as="script"><link rel="preload" href="https://wp.riyugan.online/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" as="script"><link rel="preload" href="https://wp.riyugan.online/wp-content/themes/simple-press/js/loadmore.js?ver=-b-modified-1624515839" as="script"></head>
+
+
+<body class="page-template page-template-page-quorse page-template-page-quorse-php page page-id-8 elementor-default elementor-kit-10">
+        
+    <div id="page" class="site quorse-navbar">
+        <a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+
+        <header id="masthead" class="site-header">
+		    <div class="header-layout-4">
+				<div class="header-wrapper">
+					<div class="container">
+						<div style="width: 15%;">
+							<div class="site-title">
+                				<a href="https://wp.riyugan.online" rel="home"><img src="https://quorse.com/wp-content/uploads/elementor/thumbs/quorse-logo@2x-oru03i2islpdccaztetshwra56wjwpwizv49ydixog.png" title="quorse-logo@2x" alt="quorse-logo@2x"></a>
+							</div>
+						</div>
+						<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+							<i class="eicon-menu-bar" aria-hidden="true"></i>
+							<span class="elementor-screen-only" style="top: 22px;width: initial;height: initial;clip: initial;margin: 0 0 0 10px;text-transform: uppercase;font-size: 0.85em;">Categories</span>
+						</div>
+						<form class="header-search" action="https://wp.riyugan.online">
+							<input type="text" placeholder="" name="s">
+							<button type="submit"><i class="icon-search"></i></button>
+						</form>
+						<nav id="site-navigation" class="main-navigation">
+							<div id="primary-menu" class="menu">
+								<ul class=" nav-menu">
+									<li class="page_item page-item-2"><a href="#">Signature Series</a></li>
+									<li class="page_item page-item-2"><a href="#">Promos</a></li>
+									<li class="page_item page-item-2"><a href="#">Blog</a></li>
+									<li class="page_item page-item-2"><a href="#">Sign Up</a></li>
+									<li class="page_item page-item-2"><a href="#" class="login-button">Login</a></li>
+								</ul>
+							</div>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</header>     
+    </div>
+	<section class="quorse-under-header">
+		<div class="quorse-header-container">
+			<div class="qCourseBreadcrumbs">
+				<h4 style="font: 1.05em 'Open Sans', sans-serif;"><a href="https://quorse.com/live-virtual-training/">Live Virtual Training (Most Popular!)</a></h4>
+			</div>
+		</div>
+	</section>
+	
+	
+    <div id="primary">
+
+
+    <div class="top-banner-section">
+        <img src="">
+    </div>
+
+
+    
+
+    
+            <div class="simple-press-light-dark-toggle">           
+            <label class="switch simple-press-light-dark-toggle-label" for="simple-press-light-dark-toggle-btn">
+            <input type="checkbox" name="checkbox" id="simple-press-light-dark-toggle-btn">
+            <span class="slider round"></span>
+            </label>
+        </div>
+    
+<div class="search-page">
+		<div class="row">
+			<div class="col-sm-12">
+				<main class="site-main">
+									
+					<section class="quorse-top-section">
+						<div class="quorse-container">
+							<div class="quorse-padding">
+								<div class="quorse-top-row">
+									<div class="quorse-breadcrumb">
+										<p>
+											<a href="https://quorse.com/live-virtual-training/">Live Virtual Training (Most Popular!)</a> <span class="breadcrumbSeparator">&gt;</span> Supplier Quality Management (Online Training)
+										</p>
+									</div>
+								</div>
+								<div class="quorse-top-row">
+									
+								</div>
+								<div class="quorse-top-row">
+									
+								</div>
+								<div class="quorse-top-row">
+									
+								</div>
+								<div class="quorse-top-row">
+									
+								</div>
+							</div>
+						</div>
+					
+					</section>
+
+
+								</main><!-- #main -->
+			</div>
+				
+		</div>
+</div>
+
+
+</div>
+
+
+
+<footer id="colophon" class="site-footer footer-one">
+    <div class="footer-container">
+        <div class="quorse-footer-section">
+			<div class="quorse-footer-row">
+				<div class="quorse-footer-col-1">
+					<div class="quorse-footer-col-padding">
+						<div class="quorse-footer-image">
+							<img src="https://quorse.com/wp-content/uploads/2019/10/Quorse_logo5.png" class="attachment-full size-full" alt="" loading="lazy" width="625" height="250">
+						</div>
+						<div class="quorse-footer-desc">
+							<p>Quorse is Asia’s #1 online training marketplace that connects learners with trainers who seek a value-added training experience on a single platform. Discover training courses from diverse categories, ranging from technical IT certifications to personal development programs.</p>
+						</div>
+					</div>
+				</div>
+				<div class="quorse-footer-col-2">
+				</div>
+				<div class="quorse-footer-col-3">
+					<div class="quorse-footer-col-padding">
+						<div class="quorse-footer-heading">
+							<h4>Main</h4>
+						</div>
+						<div class="quorse-footer-nav">
+							<ul>
+								<li>
+									<a href="https://quorse.com/">Quorse – The Largest Corporate Training &amp; Soft Skills Course e-Catalog in Asia</a>
+								</li>
+								<li>
+									<a href="https://quorse.com/blog">Blog</a>
+								</li>
+								<li>
+									<a href="https://quorse.com/contact-us">Contact Us</a>
+								</li>
+								<li>
+									<a href="https://quorse.com/about/">About</a>
+								</li>
+								<li>
+									<a href="https://quorse.com/sitemap/">Sitemap</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="quorse-footer-col-4">
+					<div class="quorse-footer-col-padding">
+						<div class="quorse-footer-heading">
+							<h4>Legal</h4>
+						</div>
+						<div class="quorse-footer-nav">
+							<ul>
+								<li><a href="https://quorse.com/terms-of-use">Terms of Use</a></li>
+								<li><a href="https://quorse.com/privacy-policy">Privacy Policy</a></li>
+								<li><a href="https://quorse.com/personal-data-protection-act-notice">Personal Data Protection Act Notice</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="quorse-footer-col-5">
+					<div class="quorse-footer-col-padding">
+						<div class="quorse-footer-contact-button">
+							<a href="https://quorse.com/contact-us/" role="button">Contact Us</a>
+						</div>
+						<div class="quorse-footer-social">
+							<div class="quorse-footer-social-icon" style="background-color: #3b5998;">
+								<a href="https://www.facebook.com/QuorseMY/" target="_blank"><span class="icon-facebook"></span></a>
+							</div>
+							<div class="quorse-footer-social-icon" style="background-color: #0077b5">
+								<a href="https://www.linkedin.com/company/quorse/" target="_blank"><span class="icon-linkedin"></span></a>
+							</div>
+							<div class="quorse-footer-social-icon" style="background: linear-gradient(45deg,#f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%) !important;">
+								<a href="https://www.instagram.com/therealquorse/" target="_blank"><span class="icon-instagram"></span></a>
+							</div>
+							<div class="quorse-footer-social-icon" style="background-color: #cd201f">
+								<a href="https://www.youtube.com/channel/UCd0TPHOoGk8tRx3YEH7W-GA" target="_blank"><span class="icon-youtube-play"></span></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer-container">
+        <div class="quorse-footer-section">
+			<div class="quorse-footer-row">
+				<div class="quorse-footer-col-padding">
+					<div class="quorse-footer-copyright">
+						<p>All contents Copyright since 2015. Quorse is a Network Mileage Sdn Bhd (874066-V) service. All rights reserved.</p>
+					</div>
+				</div>
+			</div>
+        </div>
+    </div>
+</footer><!-- #colophon -->
+
+
+<button class="scroll-top-wrapper" id="scrollTop" title="Go to top"><span class="icon-up-open"></span></button>
+
+
+</div><!-- #page -->
+
+		<script>
+		(function( w ){
+	"use strict";
+	// rel=preload support test
+	if( !w.loadCSS ){
+		w.loadCSS = function(){};
+	}
+	// define on the loadCSS obj
+	var rp = loadCSS.relpreload = {};
+	// rel=preload feature support test
+	// runs once and returns a function for compat purposes
+	rp.support = (function(){
+		var ret;
+		try {
+			ret = w.document.createElement( "link" ).relList.supports( "preload" );
+		} catch (e) {
+			ret = false;
+		}
+		return function(){
+			return ret;
+		};
+	})();
+
+	// if preload isn't supported, get an asynchronous load by using a non-matching media attribute
+	// then change that media back to its intended value on load
+	rp.bindMediaToggle = function( link ){
+		// remember existing media attr for ultimate state, or default to 'all'
+		var finalMedia = link.media || "all";
+
+		function enableStylesheet(){
+			// unbind listeners
+			if( link.addEventListener ){
+				link.removeEventListener( "load", enableStylesheet );
+			} else if( link.attachEvent ){
+				link.detachEvent( "onload", enableStylesheet );
+			}
+			link.setAttribute( "onload", null ); 
+			link.media = finalMedia;
+		}
+
+		// bind load handlers to enable media
+		if( link.addEventListener ){
+			link.addEventListener( "load", enableStylesheet );
+		} else if( link.attachEvent ){
+			link.attachEvent( "onload", enableStylesheet );
+		}
+
+		// Set rel and non-applicable media type to start an async request
+		// note: timeout allows this to happen async to let rendering continue in IE
+		setTimeout(function(){
+			link.rel = "stylesheet";
+			link.media = "only x";
+		});
+		// also enable media after 3 seconds,
+		// which will catch very old browsers (android 2.x, old firefox) that don't support onload on link
+		setTimeout( enableStylesheet, 3000 );
+	};
+
+	// loop through link elements in DOM
+	rp.poly = function(){
+		// double check this to prevent external calls from running
+		if( rp.support() ){
+			return;
+		}
+		var links = w.document.getElementsByTagName( "link" );
+		for( var i = 0; i < links.length; i++ ){
+			var link = links[ i ];
+			// qualify links to those with rel=preload and as=style attrs
+			if( link.rel === "preload" && link.getAttribute( "as" ) === "style" && !link.getAttribute( "data-loadcss" ) ){
+				// prevent rerunning on link
+				link.setAttribute( "data-loadcss", true );
+				// bind listeners to toggle media back
+				rp.bindMediaToggle( link );
+			}
+		}
+	};
+
+	// if unsupported, run the polyfill
+	if( !rp.support() ){
+		// run once at least
+		rp.poly();
+
+		// rerun poly on an interval until onload
+		var run = w.setInterval( rp.poly, 500 );
+		if( w.addEventListener ){
+			w.addEventListener( "load", function(){
+				rp.poly();
+				w.clearInterval( run );
+			} );
+		} else if( w.attachEvent ){
+			w.attachEvent( "onload", function(){
+				rp.poly();
+				w.clearInterval( run );
+			} );
+		}
+	}
+
+
+	// commonjs
+	if( typeof exports !== "undefined" ){
+		exports.loadCSS = loadCSS;
+	}
+	else {
+		w.loadCSS = loadCSS;
+	}
+}( typeof global !== "undefined" ? global : this ) );
+		</script>
+		<script id='simple-press-script-js-extra'>
+var simple_press_js_vars = {"ajaxurl":"https:\/\/wp.riyugan.online\/wp-admin\/admin-ajax.php"};
+</script>
+<script src='https://wp.riyugan.online/wp-content/themes/simple-press/js/script.js?ver=SIMPLE_PRESS_VERSION-b-modified-1624515839' id='simple-press-script-js'></script>
+<script src='https://wp.riyugan.online/wp-content/themes/simple-press/js/navigation.js?ver=1.0.6-b-modified-1624515839' id='simple-press-navigation-js'></script>
+<script src='https://wp.riyugan.online/wp-content/themes/simple-press/js/skip-link-focus-fix.js?ver=1.0.6-b-modified-1624515839' id='simple-press-skip-link-focus-fix-js'></script>
+<script src='https://wp.riyugan.online/wp-content/themes/simple-press/js/masonry.pkgd.min.js?ver=1.0.6-b-modified-1624515839' id='simple-press-masonry-js'></script>
+<script src='https://wp.riyugan.online/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
+</body>
+
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 15/31 objects using memcached
+Page Caching using disk: enhanced 
+Database Caching using redis
+
+Served from: wp.riyugan.online @ 2021-06-25 00:20:18 by W3 Total Cache
+-->
